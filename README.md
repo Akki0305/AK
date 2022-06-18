@@ -1,2 +1,3 @@
 # Sales Forecast
-# Capstone project of time series
+# Capstone project using time series
+#### python jupyter notebook
